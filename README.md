@@ -3,7 +3,6 @@
 ##Aim: To write a C# program to reverse a number using recursive function.
 
 ##Algorithm:
-~~~
 Step 1:
 Create a function for reversing.
 
@@ -18,7 +17,6 @@ Recrseively calling the function to get the reversed number.
 
 Step 5:
 print the reversed number
-~~~
 
 ##Program:
 ~~~
