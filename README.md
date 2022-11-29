@@ -1,8 +1,8 @@
 # Recursive-function
 
-##Aim: To write a C# program to reverse a number using recursive function.
+## Aim: To write a C# program to reverse a number using recursive function.
 
-##Algorithm:
+## Algorithm:
 Step 1:
 Create a function for reversing.
 
@@ -18,7 +18,7 @@ Recrseively calling the function to get the reversed number.
 Step 5:
 print the reversed number
 
-##Program:
+## Program:
 ~~~
 using System;
 namespace hello
@@ -58,12 +58,12 @@ namespace hello
 ~~~
 
 
-##Output:
+## Output:
 ![image](https://user-images.githubusercontent.com/94187572/203878713-4200bb21-8078-40c5-98c3-fb0dc9782c53.png)
 
 
 
-##Result:
+## Result:
 C# program to reverse a number using recursive function is executed successfully.
 
 
